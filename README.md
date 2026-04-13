@@ -1,4 +1,4 @@
-# Hi — I'm SnatMTE
+# Hi, I'm SnatMTE
 
 Full‑stack PHP developer focused on building secure, modular, framework‑free web applications using PHP and SQLite. I create small, maintainable systems that emphasise security, clarity and reusability.
 
