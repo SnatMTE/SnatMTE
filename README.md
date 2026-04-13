@@ -35,4 +35,4 @@ Full‑stack PHP developer focused on building secure, modular, framework‑free
 ## Contact
 
 - GitHub: https://github.com/SnatMTE
-- Open to collaboration and contract work — reach out via GitHub
+- Open to collaboration and contract work. Reach out via GitHub
