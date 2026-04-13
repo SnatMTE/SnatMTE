@@ -27,15 +27,6 @@ Full‑stack PHP developer focused on building secure, modular, framework‑free
 - Git, PHP built‑in web server, SQLite CLI
 - Manual testing, demo seed scripts and simple setup utilities
 
-## Notable Projects
-
-- [blog](blog/) — Secure blogging platform with admin dashboard, categories, tags and CSRF protection
-- [calender](calender/) — Event scheduler with ICS import/export and token API
-- [cms](cms/) — Central CMS providing shared authentication and module integration
-- [forum](forum/) — Threaded discussion forum with moderation tools
-- [store](store/) — Minimal e‑commerce system with cart, checkout flow and payment hooks
-
-
 ## Highlights
 
 - Multiple end‑to‑end, self‑contained apps demonstrating back‑end and front‑end integration
