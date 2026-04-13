@@ -10,6 +10,3 @@ Featured projects:
 
 Current focus:
 Building modular systems that can scale as reusable components under a shared CMS architecture.
-
-Links:
-Website: snat.co.uk
